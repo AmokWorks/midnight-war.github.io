@@ -1,0 +1,9 @@
+.ins-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 400px
+}
+
+.inst {
+    line-height: 15px;
+}

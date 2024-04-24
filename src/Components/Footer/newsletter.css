@@ -1,0 +1,13 @@
+.nl-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputs {
+    display: flex;
+    gap: 15px;
+
+    @media screen and (max-width: 1200px) {
+        flex-direction: column;
+    }
+}

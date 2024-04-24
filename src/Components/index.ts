@@ -1,0 +1,5 @@
+export * from './Header'
+export * from './Banner'
+export * from './Pieces'
+export * from './Instructions'
+export * from './Footer'
