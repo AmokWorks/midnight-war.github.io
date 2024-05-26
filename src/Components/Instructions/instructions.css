@@ -1,9 +1,11 @@
 .ins-wrapper {
     display: flex;
     flex-direction: column;
-    height: 400px
+    height: 400px;
+    font-family: "Potama";
 }
 
 .inst {
     line-height: 15px;
+    font-family: "Nohemi"
 }

@@ -11,6 +11,23 @@ body {
   }
 }
 
+@font-face {
+  font-family: 'Potama';
+  src: url('./fonts/potama.otf') format('opentype'),
+    /* Add additional font formats if necessary */
+    /* Specify the correct path to the font files */
+}
+
+@font-face {
+  font-family: "Nohhemi";
+  src: url('./fonts/Nohemi-Regular.ttf') format('truetype')
+}
+
+@font-face {
+  font-family: "Nohhemi-Bold";
+  src: url('./fonts/Nohemi-Bold.ttf') format('truetype')
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

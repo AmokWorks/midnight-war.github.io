@@ -2,7 +2,7 @@ import React from 'react'
 import './banner.css'
 import { Application } from '@splinetool/runtime'
 
-const splineLink = 'https://prod.spline.design/h4DgmVaAIBeQtnx3/scene.splinecode'
+const splineLink = 'https://prod.spline.design/2q3tJzSrpKSCMRpl/scene.splinecode'
 export const Banner = () => {
     // const canvas = document.getElementById('canvas3d')
     React.useEffect(() => {
