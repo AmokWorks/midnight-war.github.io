@@ -6,9 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  @media screen and (max-width: 1200px) {
-    overflow-x: hidden;
-  }
+  overflow-x: hidden !important;
 }
 
 @font-face {
