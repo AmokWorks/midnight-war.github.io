@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid black;
-    padding: 30px;
+    padding: 20px;
     font-family: 'Nohemi';
 }
 
@@ -16,5 +16,6 @@
 .CTAs {
     display: flex;
     justify-content: space-between;
+
     width: 10rem
 }

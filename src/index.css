@@ -13,7 +13,7 @@ body {
 
 @font-face {
   font-family: 'Potama';
-  src: url('./fonts/potama.otf') format('opentype'),
+  src: url('./fonts/potama.ttf') format('truetype'),
     /* Add additional font formats if necessary */
     /* Specify the correct path to the font files */
 }

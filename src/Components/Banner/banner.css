@@ -1,4 +1,5 @@
 #canvas3d {
     height: 60dvh !important;
-    margin: auto
+    margin: auto;
+    /* pointer-events: none; */
 }
